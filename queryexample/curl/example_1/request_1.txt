@@ -1,0 +1,3 @@
+curl -X 'GET' \
+  'http://localhost:3000/clubs/search/name?name=Juventus' \
+  -H 'accept: application/json'

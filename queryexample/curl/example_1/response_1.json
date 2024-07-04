@@ -1,0 +1,20 @@
+[
+  {
+    "clubId": 506,
+    "clubCode": "juventus-turin",
+    "name": "Juventus Football Club",
+    "domesticCompetitionId": "IT1",
+    "totalMarketValue": null,
+    "squadSize": 26,
+    "averageAge": 26.7,
+    "foreignersNumber": 14,
+    "foreignersPercentage": 53.8,
+    "nationalTeamPlayers": 16,
+    "stadiumName": "Allianz Stadium",
+    "stadiumSeats": 41507,
+    "netTransferRecord": "€-21.60m",
+    "coachName": null,
+    "lastSeason": 2023,
+    "url": "https://www.transfermarkt.co.uk/juventus-turin/startseite/verein/506"
+  }
+]

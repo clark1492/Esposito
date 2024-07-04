@@ -1,0 +1,22 @@
+{
+  "name": "mainserverexp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "mongodb": "6.5",
+    "mongoose": "^8.3.3",
+    "morgan": "~1.9.1",
+    "node-fetch": "^2.7.0",
+    "pug": "2.0.0-beta11",
+    "socket.io": "^4.7.5",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}

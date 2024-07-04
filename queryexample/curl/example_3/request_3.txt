@@ -1,0 +1,3 @@
+curl -X 'GET' \
+  'http://localhost:3000/players/search/info?name=Cristiano%20Ronaldo&position=Attack&start=2019-01-01&end=2020-01-01' \
+  -H 'accept: application/json'
